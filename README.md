@@ -15,4 +15,10 @@
 * [Configure Project ADMIN](https://github.com/exceltechltd/SC-Dockerized-Deployment/wiki/Configure-Project-Admin)
 * [Publish App into Docker Hub](https://github.com/exceltechltd/SC-Dockerized-Deployment/wiki/Publish-App-into-Docker-Hub)
 * [Deploy WEB, API & Database to Ubuntu Server using Portainer](https://github.com/exceltechltd/SC-Dockerized-Deployment/wiki/Deploy-WEB,-API-&-Database-to-Ubuntu-Server-using-Portainer)
-* [Restore Database](https://github.com/exceltechltd/SC-Dockerized-Deployment/wiki/Restore-Database-on-PostgreSQL)
+* [Restore Database](https://github.com/exceltechltd/SC-Dockerized-Deployment/wiki/Restore-Database-on-SQLServer-DB)
+* [Browse Your Application](https://github.com/exceltechltd/SC-Dockerized-Deployment/wiki/Browse-Your-Application)
+
+
+**IF you find any kind of issue on this documentation I'm always there to solve this. You just simply leave a mail `azmin@excelbd.com`**
+
+## Thanks
